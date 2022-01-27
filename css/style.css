@@ -131,6 +131,13 @@ h2 {
     submit {
         width: 40%;
     }
+
+    .gracias {
+        color: white;
+        font-size: 25px;
+        display: flex;
+        justify-content: center;
+    }
 }
 
 @media (max-width: 500px) {
